@@ -5,16 +5,16 @@ This repository contains my R code used during lectures of DATA 71000, which is 
 The topics are:
 
 Week 1: Introduction, no code \
-Week 2: \
-Week 3: \
-Week 4: \
-Week 5: \
-Week 6: \
-Week 7: \
-Week 8: \
-Week 9: \
-Week 10: \
-Week 11: \
-Week 12: \
-Week 13: \
+Week 2: Visualisation: Plots\
+Week 3: Contingency Tables and Promotion Experiment Simulation\
+Week 4: Normal Distribution, Testing for Normality\
+Week 5: Coming soon\
+Week 6: Coming soon\
+Week 7: Coming soon\
+Week 8: Coming soon\
+Week 9: Coming soon\
+Week 10: Coming soon\
+Week 11: Coming soon\
+Week 12: Coming soon\
+Week 13: Coming soon\
 Week 14: Final project presentations, no code
