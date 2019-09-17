@@ -14,7 +14,7 @@ Week 7: Coming soon\
 Week 8: Coming soon\
 Week 9: Coming soon\
 Week 10: Coming soon\
-Week 11: Coming soon\
-Week 12: Coming soon\
+Week 11: Linear regression\
+Week 12: Linear, logistic regression\
 Week 13: Coming soon\
 Week 14: Final project presentations, no code
