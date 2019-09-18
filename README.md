@@ -4,12 +4,13 @@ This repository contains my R code used during lectures of DATA 71000, which is 
 
 The topics are:
 
+
 Week 1: Introduction, no code \
 Week 2: Visualisation: Plots\
-Week 3: Contingency Tables and Promotion Experiment Simulation\
+Week 3: Contingency tables, promotion experiment simulation\
 Week 4: Normal Distribution\
 Week 5: Checking for normality, quantile-quantile plots\
-Week 6: Coming soon\
+Week 6: Inference, confidence intervals\
 Week 7: Coming soon\
 Week 8: Coming soon\
 Week 9: Coming soon\
