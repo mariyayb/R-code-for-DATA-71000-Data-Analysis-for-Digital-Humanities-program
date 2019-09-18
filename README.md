@@ -1,4 +1,4 @@
-# R code for DATA 71000:
+# R code for DATA 71000
 # Data Analysis for Digital Humanities Masters Program
 
 This repository contains my R code used during lectures of DATA 71000, which is an introductory course to data analysis for the Digital Humanities masters program at the CUNY Graduate Center.
