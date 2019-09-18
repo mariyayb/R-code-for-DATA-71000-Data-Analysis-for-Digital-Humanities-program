@@ -1,4 +1,5 @@
-# R code for DATA 71000: \ Data Analysis for Digital Humanities Masters Program
+# R code for DATA 71000:
+# Data Analysis for Digital Humanities Masters Program
 
 This repository contains my R code used during lectures of DATA 71000, which is an introductory course to data analysis for the Digital Humanities masters program at the CUNY Graduate Center.
 
@@ -18,5 +19,5 @@ Week 9: Paired vs. unpaired data, categorical data\
 Week 10: Difference of proportions, Chi squared tests\
 Week 11: Linear regression\
 Week 12: Linear, logistic regression\
-Week 13: Coming soon\
+Week 13: ANOVA, nonparametric tests\
 Week 14: Final project presentations, no code
