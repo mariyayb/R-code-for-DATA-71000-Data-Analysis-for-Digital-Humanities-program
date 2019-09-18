@@ -11,7 +11,7 @@ Week 3: Contingency tables, promotion experiment simulation\
 Week 4: Normal Distribution\
 Week 5: Checking for normality, quantile-quantile plots\
 Week 6: Inference, confidence intervals\
-Week 7: Coming soon\
+Week 7: Sampling distribution of the mean\
 Week 8: Coming soon\
 Week 9: Coming soon\
 Week 10: Coming soon\
